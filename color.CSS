@@ -1,0 +1,139 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+header {
+    background-image: url(file:///C:/Users/Silvana/Documents/6to.%20sec/Pagina%20Web/Fotos/%F0%9F%92%9B.jfif);
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+h1 {
+    margin: 60px;
+    text-align: center;
+    font-size: 50px;
+    background-color: #f6d4e5c4;
+    padding: 40px;
+    border-radius: 15px;
+    color: rgb(17, 2, 25);
+}
+.hr1 {
+    margin-top: 200px;
+}
+.hr2 {
+    margin-bottom: 200px;
+}
+p {
+    margin-top: 100px;
+    margin-bottom: 20px;
+    font-size: large;
+    background-color: #f6d4e5c6;
+    padding-inline-start: 80px;
+    padding-inline-end: 80px;
+    padding-bottom: 40px;
+    padding-top: 30px;
+    color: rgb(17, 2, 25);
+}
+nav {
+    background-color: #f6d4e5;
+    padding: 20px;
+    font-size: 22px;
+    word-spacing: 140px;
+    text-align: center;
+    letter-spacing: 2px;
+    margin-bottom: 480px;
+}
+a {
+    text-decoration: none;
+    color: rgb(38, 14, 50);
+    font-weight: bold;
+}
+a:hover {
+    border: 4px double rgb(17, 2, 25);
+    border-radius: 4px;
+    padding: 15px;
+    background-color:#e8d4f6a0;
+    color: rgb(206, 44, 98);
+}
+footer {
+    background-color: #f6d4e5;
+    color: rgb(17, 2, 25);
+    text-align: center;
+    padding: 9px;
+}
+.demas {
+    margin-bottom: 0.5px;
+}
+.imgflor {
+    display: grid;
+    
+    background-image: url(file:///C:/Users/Silvana/Documents/6to.%20sec/Pagina%20Web/Fotos/Easy%20Landscape%20Painting%20with%20Watercolors.webp);
+    background-repeat: repeat;
+    background-clip: border-box;
+    background-size: contain;
+}
+img {
+    border:#fec8e3 dotted 2px;
+    align-items: center;
+    padding: 4px;
+    margin-inline-start: 15px;
+    margin-inline-end: 10px;
+    margin-bottom: 20px;
+    height: fit-content;
+    block-size: 525px;
+    margin-top: 20px;
+}
+button {
+    margin-inline-start: 4%;
+    margin-inline-end: 20%;
+    margin-bottom: 10%;
+    font-size: larger;
+    padding: 6px;
+    background-color: rgba(255, 255, 255, 0.815);
+    color: #170120;
+    
+}
+.descarga:hover {
+    border: dotted 2px plum;
+    background-color: #170120b9;
+    color: #f6d4e5;
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+}
+#margin {
+    margin-top: 100px;
+}
+#pc {
+    margin-top: 2px;
+    background-color: #eec8ffe7;
+}
+.otroc {
+    background-color: rgba(255, 255, 255, 0.836);
+    background-clip: content-box;
+    margin-top: 0px;
+    word-spacing: 3px;
+    padding-bottom: 10px;
+    margin-left: 10%;
+    padding-inline-start:0%;
+    font-size: large;
+    padding-left: 2%;
+    padding-right: 3%;
+    padding-inline-end: 15%;
+    padding-top: 10px;
+}
+.contacts {
+    background-image: url(file:///C:/Users/Silvana/Documents/6to.%20sec/Pagina%20Web/Fotos/Tangled%20lanterns%20painting%20%F0%9F%91%A9%F0%9F%8F%BB_%F0%9F%8E%A8.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h3 {
+    text-align: left;
+    background-color: #fec8e3;
+    padding: 1%;
+    margin: 0%;
+    padding-left: 2%;
+    color: #280014;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 180;
+}
