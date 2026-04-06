@@ -2,7 +2,7 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 header {
-    background-image: url(file:///C:/Users/Silvana/Documents/6to.%20sec/Pagina%20Web/Fotos/%F0%9F%92%9B.jfif);
+    background-image: url(Fotos/💛.jfif);
     background-repeat:no-repeat;
     background-position: center;
     background-size: cover;
@@ -66,7 +66,7 @@ footer {
 .imgflor {
     display: grid;
     
-    background-image: url(file:///C:/Users/Silvana/Documents/6to.%20sec/Pagina%20Web/Fotos/Easy%20Landscape%20Painting%20with%20Watercolors.webp);
+    background-image: url(Fotos/Easy\ Landscape\ Painting\ with\ Watercolors.webp);
     background-repeat: repeat;
     background-clip: border-box;
     background-size: contain;
@@ -123,7 +123,7 @@ button {
     padding-top: 10px;
 }
 .contacts {
-    background-image: url(file:///C:/Users/Silvana/Documents/6to.%20sec/Pagina%20Web/Fotos/Tangled%20lanterns%20painting%20%F0%9F%91%A9%F0%9F%8F%BB_%F0%9F%8E%A8.jfif);
+    background-image: url(Fotos/Tangled\ lanterns\ painting\ 👩🏻_🎨.jfif);
     background-repeat: no-repeat;
     background-size: cover;
 }
